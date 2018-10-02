@@ -1,0 +1,7 @@
+C:\Users\eugen\Desktop\Work\C#\getset1\getset1\bin\Debug\getset1.exe.config
+C:\Users\eugen\Desktop\Work\C#\getset1\getset1\bin\Debug\getset1.exe
+C:\Users\eugen\Desktop\Work\C#\getset1\getset1\bin\Debug\getset1.pdb
+C:\Users\eugen\Desktop\Work\C#\getset1\getset1\obj\Debug\getset1.csprojAssemblyReference.cache
+C:\Users\eugen\Desktop\Work\C#\getset1\getset1\obj\Debug\getset1.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\Work\C#\getset1\getset1\obj\Debug\getset1.exe
+C:\Users\eugen\Desktop\Work\C#\getset1\getset1\obj\Debug\getset1.pdb
